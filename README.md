@@ -1,0 +1,2 @@
+# emu
+A curiosity project
